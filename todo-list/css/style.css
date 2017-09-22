@@ -1,0 +1,32 @@
+/***** TODO LIST *****/
+
+body {
+    background: #e4e4e4;
+}
+
+.container {
+    width: 50%;
+}
+
+#todoList {
+    margin-top: 30px;
+}
+
+#listing {
+    background-color: #2ecc71;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+/***** ICONS ****/
+li i {
+    padding-right: 20px;
+    color: #2f412f;
+}
+
+i:hover {
+    color: red;
+}
